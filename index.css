@@ -1,0 +1,8 @@
+body {
+    color: blue;
+    background-color: coral;
+}
+.right >img {
+    height: 550px;
+    width: 350px;
+}
