@@ -3,6 +3,7 @@ body {
     font-family: 'Libre Baskerville', serif;
 }
 .Navigation{
+    color: chocolate;
     position: relative;
     font-size: 20px;
 }
@@ -15,7 +16,6 @@ body {
     padding: 2px;
     overflow: hidden;
     
-}
 }
 .Navigation .li {
     float: left;
