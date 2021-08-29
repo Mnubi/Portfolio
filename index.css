@@ -59,3 +59,8 @@ body {
     height: 150px;
     width: 200px;
 }
+.footer {
+    color: chartreuse;
+    width: 100%;
+    text-align: center;
+}
