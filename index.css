@@ -10,9 +10,9 @@ body {
     color: black;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     list-style-type: none;
-    padding: 20px;
+    padding: 2px;
     overflow: hidden;
     
 }
@@ -33,7 +33,7 @@ body {
 }
 .left {
     font-size: 60px;
-    width: 120%;
+    width: 65%;
     text-align: center;
 }
 .main h2{
@@ -44,6 +44,7 @@ body {
 .right >img {
     height: 550px;
     width: 370px;
+    border-radius: 5%;
 }
 .about h2 {
     text-align: center;
