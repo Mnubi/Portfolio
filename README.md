@@ -1,6 +1,6 @@
 # {Rodger Philip Portfoli}
 #### {This is a website that shortly describe my journey as a develope and the achievements that I have accomplished.}, {August 28 2021}
-#### By **{Rodger Kamau, Ian Njenga, Daniel nyutu, Evans Onyego}**
+#### By **{Rodger Kamau}**
 ## Description
 {This website will allow  company, organisation and individuals to get a clue of who I am and what I can do. This shades light to what they expect of me. It also provide
 my contact details in case they want to reach me.}
