@@ -58,9 +58,16 @@ body {
     color: chartreuse;
     text-align: center;
 }
+.projects{
+    background-color: coral;
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 8%;
+}
 .projects> .project {
     float: left;
-    width: 33%;
+    width: 30%;
     text-align: center;
     padding: 2px;
 }
