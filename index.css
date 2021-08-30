@@ -72,12 +72,15 @@ body {
     padding: 2px;
 }
 .project> img{
-    height: 150px;
+    height: 170px;
     width: 200px;
     border-radius: 50%;
 }
 .projects a{
     color: chartreuse;
+}
+.contact{
+    padding-top: 20px;
 }
 .contact .fa {
     padding: 20px;
